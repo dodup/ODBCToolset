@@ -262,7 +262,7 @@ Example of result:
 
 The Execute_Query function will use the selected mode, where:
 
-| Modes | Arguments description                                            |
+| Modes | Description                                            |
 |-------|--------------------------------------------------------------------|
 | 0     | Free query, query = queryArg + ";"                               |
 | 1     | SELECT, query = "SELECT " + queryArg + " FROM " + selectedTable + ";" |
